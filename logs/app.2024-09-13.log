@@ -1,0 +1,33 @@
+22:47:29.210 [main] INFO  org.example.DispatcherApplication -- Starting DispatcherApplication using Java 21 with PID 66493 (/Users/anailina/Documents/education/projects/BabuskinPogreb/dispatcher/target/classes started by anailina in /Users/anailina/Documents/education/projects/BabuskinPogreb)
+22:47:29.211 [main] INFO  org.example.DispatcherApplication -- No active profile set, falling back to 1 default profile: "default"
+22:47:29.559 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer -- Tomcat initialized with port 8084 (http)
+22:47:29.564 [main] INFO  o.a.coyote.http11.Http11NioProtocol -- Initializing ProtocolHandler ["http-nio-8084"]
+22:47:29.565 [main] INFO  o.a.catalina.core.StandardService -- Starting service [Tomcat]
+22:47:29.565 [main] INFO  o.a.catalina.core.StandardEngine -- Starting Servlet engine: [Apache Tomcat/10.1.26]
+22:47:29.583 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -- Initializing Spring embedded WebApplicationContext
+22:47:29.584 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext -- Root WebApplicationContext: initialization completed in 357 ms
+22:47:29.804 [main] INFO  o.a.coyote.http11.Http11NioProtocol -- Starting ProtocolHandler ["http-nio-8084"]
+22:47:29.811 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer -- Tomcat started on port 8084 (http) with context path '/'
+22:47:30.204 [main] INFO  org.example.DispatcherApplication -- Started DispatcherApplication in 1.138 seconds (process running for 1.488)
+22:48:36.001 [main] INFO  org.example.DispatcherApplication -- Starting DispatcherApplication using Java 21 with PID 66543 (/Users/anailina/Documents/education/projects/BabuskinPogreb/dispatcher/target/classes started by anailina in /Users/anailina/Documents/education/projects/BabuskinPogreb)
+22:48:36.002 [main] INFO  org.example.DispatcherApplication -- No active profile set, falling back to 1 default profile: "default"
+22:48:36.358 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer -- Tomcat initialized with port 8084 (http)
+22:48:36.362 [main] INFO  o.a.coyote.http11.Http11NioProtocol -- Initializing ProtocolHandler ["http-nio-8084"]
+22:48:36.363 [main] INFO  o.a.catalina.core.StandardService -- Starting service [Tomcat]
+22:48:36.363 [main] INFO  o.a.catalina.core.StandardEngine -- Starting Servlet engine: [Apache Tomcat/10.1.26]
+22:48:36.382 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -- Initializing Spring embedded WebApplicationContext
+22:48:36.382 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext -- Root WebApplicationContext: initialization completed in 363 ms
+22:48:36.600 [main] INFO  o.a.coyote.http11.Http11NioProtocol -- Starting ProtocolHandler ["http-nio-8084"]
+22:48:36.607 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer -- Tomcat started on port 8084 (http) with context path '/'
+22:48:37.017 [main] INFO  org.example.DispatcherApplication -- Started DispatcherApplication in 1.157 seconds (process running for 1.51)
+22:57:32.073 [main] INFO  org.example.DispatcherApplication -- Starting DispatcherApplication using Java 21 with PID 66840 (/Users/anailina/Documents/education/projects/BabuskinPogreb/dispatcher/target/classes started by anailina in /Users/anailina/Documents/education/projects/BabuskinPogreb)
+22:57:32.074 [main] INFO  org.example.DispatcherApplication -- No active profile set, falling back to 1 default profile: "default"
+22:57:32.439 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer -- Tomcat initialized with port 8084 (http)
+22:57:32.444 [main] INFO  o.a.coyote.http11.Http11NioProtocol -- Initializing ProtocolHandler ["http-nio-8084"]
+22:57:32.445 [main] INFO  o.a.catalina.core.StandardService -- Starting service [Tomcat]
+22:57:32.445 [main] INFO  o.a.catalina.core.StandardEngine -- Starting Servlet engine: [Apache Tomcat/10.1.26]
+22:57:32.466 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -- Initializing Spring embedded WebApplicationContext
+22:57:32.467 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext -- Root WebApplicationContext: initialization completed in 377 ms
+22:57:32.703 [main] INFO  o.a.coyote.http11.Http11NioProtocol -- Starting ProtocolHandler ["http-nio-8084"]
+22:57:32.710 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer -- Tomcat started on port 8084 (http) with context path '/'
+22:57:33.124 [main] INFO  org.example.DispatcherApplication -- Started DispatcherApplication in 1.189 seconds (process running for 1.507)
