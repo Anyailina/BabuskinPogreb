@@ -19,6 +19,7 @@ public class ConsumerServiceImpl implements ServiceConsumer {
     @Override
     @KafkaListener(topics = "text_message",groupId = "node")
     public void consumeTextMessage(String string) {
+        System.out.println(123);
         log.debug("TextMessage Received");
 
 //        String chatId = update.getMessage().getChatId().toString();
